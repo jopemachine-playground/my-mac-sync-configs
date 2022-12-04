@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Extension Icon</key>
+  <string>[ene]</string>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>ene</string>
+			<key>URL</key>
+			<string>https://dict.naver.com/enendict/#/search?query={popclip text}</string>
+			<key>Image File</key>
+			<string>[ene]</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Search Naver Dictionary enendict</string>
+	<key>Extension Identifier</key>
+	<string>com.naverdict.enendict</string>
+	<key>Extension Name</key>
+	<string>Naver DICT 영영사전</string>
+</dict>
+</plist>

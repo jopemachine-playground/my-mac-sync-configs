@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Installed Extensions</key>
+	<array>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.uppercase</string>
+			<key>Extension Name</key>
+			<string>Uppercase</string>
+			<key>Package Name</key>
+			<string>Uppercase.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.rtc</string>
+			<key>Extension Name</key>
+			<string>Terminal</string>
+			<key>Package Name</key>
+			<string>RunCommand.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.naverdict.en</string>
+			<key>Extension Name</key>
+			<string>Naver DICT 영어</string>
+			<key>Package Name</key>
+			<string>en.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.naverdict.ko</string>
+			<key>Extension Name</key>
+			<string>Naver DICT 국어</string>
+			<key>Package Name</key>
+			<string>ko.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.title-case</string>
+			<key>Extension Name</key>
+			<string>Title Case</string>
+			<key>Package Name</key>
+			<string>TitleCase.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.google-search</string>
+			<key>Extension Name</key>
+			<string>Google</string>
+			<key>Package Name</key>
+			<string>GoogleSearch.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.google-translate</string>
+			<key>Extension Name</key>
+			<string>Google Translate</string>
+			<key>Package Name</key>
+			<string>GoogleTranslate.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.paper</string>
+			<key>Extension Name</key>
+			<string>Paper</string>
+			<key>Package Name</key>
+			<string>Paper.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.jopemachine.popclip.extension.npm</string>
+			<key>Extension Name</key>
+			<string>Npm</string>
+			<key>Package Name</key>
+			<string>popclip-npm.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.naverdict.enendict</string>
+			<key>Extension Name</key>
+			<string>Naver DICT 영영사전</string>
+			<key>Package Name</key>
+			<string>enendict.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.SearchNaver</string>
+			<key>Extension Name</key>
+			<string>Naver</string>
+			<key>Package Name</key>
+			<string>Naver.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.taking.popclip.extension.naver-papago</string>
+			<key>Extension Name</key>
+			<string>네이버 파파고 번역</string>
+			<key>Package Name</key>
+			<string>Naver-papago.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.naverdict.ja</string>
+			<key>Extension Name</key>
+			<string>Naver DICT 일본어</string>
+			<key>Package Name</key>
+			<string>ja.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.sentence-case</string>
+			<key>Extension Name</key>
+			<string>Sentence Case</string>
+			<key>Package Name</key>
+			<string>SentenceCase.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.sort</string>
+			<key>Extension Name</key>
+			<string>Sort</string>
+			<key>Package Name</key>
+			<string>Sort.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.dash</string>
+			<key>Extension Name</key>
+			<string>Dash</string>
+			<key>Package Name</key>
+			<string>Dash.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.youtube</string>
+			<key>Extension Name</key>
+			<string>YouTube</string>
+			<key>Package Name</key>
+			<string>YouTube.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.naverdict.hanja</string>
+			<key>Extension Name</key>
+			<string>Naver DICT 한자</string>
+			<key>Package Name</key>
+			<string>hanja.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.textedit</string>
+			<key>Extension Name</key>
+			<string>TextEdit</string>
+			<key>Package Name</key>
+			<string>TextEdit.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>ru.bubble-translate.pop-clip.translate</string>
+			<key>Extension Name</key>
+			<string>Bubble Translate</string>
+			<key>Package Name</key>
+			<string>BubbleTranslate3.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.alfred</string>
+			<key>Extension Name</key>
+			<string>Alfred</string>
+			<key>Package Name</key>
+			<string>Alfred.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.capitalize</string>
+			<key>Extension Name</key>
+			<string>Capitalize</string>
+			<key>Package Name</key>
+			<string>Capitalize.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.brettterpstra.popclip.extension.outdent</string>
+			<key>Extension Name</key>
+			<string>Outdent</string>
+			<key>Package Name</key>
+			<string>Outdent.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.large-type</string>
+			<key>Extension Name</key>
+			<string>Large Type</string>
+			<key>Package Name</key>
+			<string>LargeType.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.select-all</string>
+			<key>Extension Name</key>
+			<string>Select All</string>
+			<key>Package Name</key>
+			<string>SelectAll.popclipext</string>
+		</dict>
+	</array>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>

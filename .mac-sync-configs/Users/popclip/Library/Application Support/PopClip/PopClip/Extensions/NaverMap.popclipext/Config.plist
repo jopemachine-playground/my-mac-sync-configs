@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>NaverMap.png</string>
+			<key>Shell Script File</key>
+			<string>script.sh</string>
+			<key>Title</key>
+			<string>NaverMap</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>네이버 지도에서 검색합니다.</string>
+	<key>Extension Identifier</key>
+	<string>com.z.popclip.naver.map</string>
+	<key>Extension Name</key>
+	<dict>
+		<key>en</key>
+		<string>NaverMap</string>
+		<key>ko</key>
+		<string>네이버 지도</string>
+	</dict>
+	<key>Required Software Version</key>
+	<integer>693</integer>
+</dict>
+</plist>

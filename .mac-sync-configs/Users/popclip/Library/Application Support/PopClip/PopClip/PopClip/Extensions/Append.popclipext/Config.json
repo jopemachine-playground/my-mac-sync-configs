@@ -1,0 +1,8 @@
+{
+  "identifier" : "com.jopemachine.popclip.extension.npm",
+  "name" : "npm",
+  "icon" : "plus.png",
+  "description" : "Open npm webpage by popclip",
+  "note": "",
+  "popclipVersion": 3543
+}
