@@ -1,0 +1,32 @@
+sync:
+  # macos configs
+  - ~/Library/Preferences/com.caldis.Mos.plist
+  - ~/Library/Preferences/com.casana.app.plist
+  - ~/Library/Preferences/com.apple.dock.plist
+  - ~/Library/Preferences/com.apple.finder.plist
+  - ~/Library/Preferences/com.lwouis.alt-tab-macos.plist
+  # git
+  - ~/.gitignore
+  # custom keybinding
+  - ~/Library/KeyBindings/DefaultkeyBinding.dict
+  # alfred
+  - ~/Library/Preferences/com.runningwithcrayons.Alfred.plist
+  - ~/Library/Preferences/com.runningwithcrayons.Alfred-Preferences.plist
+  # popclip
+  - ~/Library/Preferences/com.pilotmoon.popclip.plist
+  - ~/Library/Application Support/PopClip
+  # fish
+  - ~/.config/fish/config.fish
+  - ~/.config/fish/alias.fish
+  # ideavimrc
+  - ~/.ideavimrc
+  # alacritty
+  - ~/.config/alacritty/alacritty.yml
+  # lvim
+  - ~/.config/lvim/config.lua
+  # ranger
+  - ~/.config/ranger/rc.conf
+  # starship
+  - ~/.config/starship.toml
+  # tmux
+  - ~/.tmux.conf
